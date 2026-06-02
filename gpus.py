@@ -53,9 +53,9 @@ def print_all_gpus_by_price():
 # main code
 while True:
     user_input = input("""What would you like to do.
-1. Print all aircraft
-2. Print all aircraft sorted by speed
-3. Print all aircraft sorted by cost
+1. Print all GPUs
+2. Print all GPUs sorted by speed
+3. Print all GPUs sorted by cost
 4. Exit
 """)
 
